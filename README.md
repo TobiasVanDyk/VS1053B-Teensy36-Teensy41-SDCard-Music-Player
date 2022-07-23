@@ -1,4 +1,4 @@
-# VS1053B-Teensy36-Teensy41-SDCard-Music-Player
+# VS1053B-Teensy3.6-Teensy4.1-SDCard-Music-Player
 VS1053B Teensy36 Teensy41 SDCard Music Player
 <p align="left">
 <img src="images/Teensy36Teensy41VS1053SDPlayer.jpg" width="700" /> 
