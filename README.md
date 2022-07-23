@@ -5,7 +5,7 @@ VS1053B Teensy36 Teensy41 SDCard Music Player
 <br>
 
 <p align="left">
-<img src="images/connect1.jpg" width="595" /> 
+<img src="images/connect.jpg" width="595" /> 
 <br>
 
 For the Teensy 4.1 comment out the Status Register Save SREG else get 'SREG' was not declared in this scope compiler message<br>
