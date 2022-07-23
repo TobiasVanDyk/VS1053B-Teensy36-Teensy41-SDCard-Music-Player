@@ -1,7 +1,7 @@
 VS1053 Teensy36 Teensy41 SDCard Player
 
-VS1053B         Teensy 
-Adafruit  3.6 and 4.1 (*1,*2)
+Adafruit  Teensy 
+VS1053B   3.6 and 4.1 (*1,*2)
 ===================================================================================
 VCC       5v	 
 GND       GND	 
